@@ -1,5 +1,5 @@
 # Virtual Piano
-[https://paulhorstmann.github.io/virtual-piano/](![Screenshot](https://github.com/paulhorstmann/virtual-piano/blob/main/screenshot.png?raw=true))
+[https://paulhorstmann.github.io/virtual-piano/](![Screenshot](https://github.com/paulhorstmann/virtual-piano/blob/main/screenshot.png?raw=true)
 ### Preview
 [https://paulhorstmann.github.io/virtual-piano/](https://paulhorstmann.github.io/virtual-piano/)
 

@@ -1,6 +1,6 @@
 # Virtual Piano
 ![Screenshot](https://github.com/paulhorstmann/virtual-piano/blob/master/screenshot.png?raw=true)
-### Preview
+### Demo
 [https://paulhorstmann.github.io/virtual-piano/](https://paulhorstmann.github.io/virtual-piano/)
 
 ### Jetbrains Academy

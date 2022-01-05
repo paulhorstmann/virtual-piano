@@ -4,9 +4,9 @@
 [https://paulhorstmann.github.io/virtual-piano/](https://paulhorstmann.github.io/virtual-piano/)
 
 ### Jetbrains Academy
-![Jetbrains Academy Cover](https://hyperskill.org/projects/143/cover.png)
+![Jetbrains Academy Cover](https://hyperskill.org/projects/101/cover.png)
 This is a part of the Frontend Developer track from Jetbrains Academy <br>
-[https://hyperskill.org/projects/143?track=5](https://hyperskill.org/projects/143?track=5)
+[https://hyperskill.org/projects/101?track=5](https://hyperskill.org/projects/101?track=5)
 
 
 ### Other Projects 
